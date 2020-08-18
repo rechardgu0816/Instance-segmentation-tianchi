@@ -1,5 +1,5 @@
 ### IJCAI-PRCAI2020 3D AI Challenge: Instance Segmentation
-
+A榜：8/559 B榜：6/559
 ![Results](https://github.com/rechardgu0816/Instance-segmentation-tianchi/blob/master/images/1.jpg)
 # Improvements
 1、Data Augmentation
